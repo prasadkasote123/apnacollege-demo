@@ -1,4 +1,4 @@
 # apnacollege-demo
 my first repository
 <br>
-Author - Prasad Kasote  
+Author - Prasad Dadu's
